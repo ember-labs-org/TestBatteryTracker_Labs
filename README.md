@@ -1,6 +1,6 @@
-# {{TOOL_NAME}}
+# Test Battery Tracker
 
-{{ONE_LINE_DESCRIPTION}}
+A tracker to test how much energy a battery uses over 90 days
 
 An [Ember Labs](https://ember-labs.org/) prototype. Ember Labs tools are experimental and are not Ember's main data products.
 
@@ -8,9 +8,9 @@ An [Ember Labs](https://ember-labs.org/) prototype. Ember Labs tools are experim
 
 | Role | Person |
 | :-- | :-- |
-| Owner | {{OWNER_NAME}} ({{OWNER_EMAIL}}) |
-| Backup | {{BACKUP_NAME}} ({{BACKUP_EMAIL}}) |
-| Team | {{TEAM}} |
+| Owner | Carla Brown (carla.brown@ember-energy.org) |
+| Backup | None yet (to be added) |
+| Team | CMM |
 
 ## What's in this repo
 
@@ -23,7 +23,7 @@ An [Ember Labs](https://ember-labs.org/) prototype. Ember Labs tools are experim
 
 ## Updating the data
 
-{{HOW_TO_UPDATE_DATA}}
+Not decided yet.
 
 ## Publishing with GitHub Pages
 

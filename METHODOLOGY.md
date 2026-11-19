@@ -1,4 +1,4 @@
-# Methodology: {{TOOL_NAME}}
+# Methodology: Test Battery Tracker
 
 ## What the tool shows
 
@@ -30,4 +30,4 @@ As per Ember's AI use policy, responsibility for the quality and accuracy of the
 
 ## Contact
 
-{{OWNER_NAME}}, {{OWNER_EMAIL}}
+Carla Brown, carla.brown@ember-energy.org
